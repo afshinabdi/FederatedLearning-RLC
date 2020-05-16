@@ -16,5 +16,4 @@ title: {{ site.name }}
 ## III. How to Cite?
 For a reference to this work, please cite the following paper:
 
-* [**Conference Paper:**] A. Abdi, Y. M. Saidutta, and F. Fekri, ``Analog Compression and Communication for Federated Learning over Wireless MAC,'' in *21st IEEE International Workshop on Signal Processing Advances in Wireless Communications*, May 2020
-
+* [**Conference Paper:**] A. Abdi, Y. M. Saidutta, and F. Fekri, "Analog Compression and Communication for Federated Learning over Wireless MAC," in *21st IEEE International Workshop on Signal Processing Advances in Wireless Communications*, May 2020
